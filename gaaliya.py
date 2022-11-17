@@ -2,22 +2,24 @@
 
 # Used to call someone abusively
 personal_gaali = [
-    "madarchod",
-    "behinchod",
+    "madar chod",
+    "behin chod",
     "lodu",
-    "bhosdike",
+    "bhosdeke",
     "jhatu",
-    "jhat ke baal",
+    "jhant ke baal",
     "randi ka bachaa",
-    "o jhaant ke baal",
-    "aye lodu lalit"
+    "o jhant ke baal",
+    "aye lodu lalit",
+    "suar ka pilla",
+    "dou baap ka beta"
 ]
 
 
 # Dedicated to Maataji of the victim
 maa_ki_gaali = [
     "teri maiya randi",
-    "teri maa ki chut",
+    "teri maa ki choot",
     "tori mai ke chodo"
 ]
 
