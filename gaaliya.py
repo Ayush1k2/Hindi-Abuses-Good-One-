@@ -20,7 +20,8 @@ personal_gaali = [
 maa_ki_gaali = [
     "teri maiya randi",
     "teri maa ki choot",
-    "tori mai ke chodo"
+    "tori mai ke chodo",
+    "teri maa ka bhosda"
 ]
 
 # For friends only
